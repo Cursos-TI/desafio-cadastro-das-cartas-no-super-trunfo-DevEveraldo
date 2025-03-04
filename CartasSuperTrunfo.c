@@ -5,7 +5,6 @@
 // Calcular o PIB per Capita: Divida o PIB da cidade pela sua população.
 /* Exibir os Resultados: Além de exibir as informações lidas do usuário e exibir a densidade populacional
  e o PIB per capita calculados para cada cidade. Os valores de ponto flutuante com duas casas decimais.*/
-// Criar Super Poder
 // Comparar cartas do Super Trunfo e determinar a vencedora
 
 #include <stdio.h>
